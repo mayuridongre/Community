@@ -1,6 +1,5 @@
 
 ## List of projects
-Name Of the Projects
 
 1. Blockchain credit cards for Syrian refugees in Lebanon 
 2. Blockchain donations for victims of Italian earthquakes 
