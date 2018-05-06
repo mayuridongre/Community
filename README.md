@@ -1,4 +1,5 @@
-## ** List of projects**
+
+## List of projects
 Name Of the Projects
 
 1. Blockchain credit cards for Syrian refugees in Lebanon 
